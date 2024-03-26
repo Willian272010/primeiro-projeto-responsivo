@@ -1,0 +1,26 @@
+
+
+h1  {
+    color: red;
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-decoration: overline;
+
+}
+
+
+
+p {
+    color: blue;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    letter-spacing: 10;
+    word-spacing: 50;
+    text-transform:uppercase;
+    text-decoration: overline;
+    text-shadow: 10px  10px  10px #ff0000;
+}

@@ -1,0 +1,32 @@
+
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ header {
+    margin: 47px  0 78px  42px;
+ }
+ 
+ .link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: yellowgreen;
+    cursor: pointer;
+    margin-right: 23px;
+ }
+ .button-2 {
+       background-color:#ffff;
+        border-radius: 20px;
+        width: 130px;
+        height: 41px;
+ }
+
+
+.img-logo {
+
+        width: 595.18px;
+        height: 500px;
+}
